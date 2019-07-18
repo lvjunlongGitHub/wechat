@@ -1,0 +1,33 @@
+# maven #
+target
+logs
+
+# eclipse #
+.settings
+.project
+.classpath
+.log
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
+
+# Package Files #
+*.war
+*.ear
+
+# idea #
+*.iml
+.idea/
+overlays
+bin
+build/
+out/
+
+#gradle
+.gradle/*
+.idea/workspace.xml
+log/
+
