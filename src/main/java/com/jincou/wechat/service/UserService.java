@@ -11,4 +11,6 @@ public interface UserService {
 
      User saveWeChatUser(String code);
 
+     void qqLogin(String authCode);
+
 }
