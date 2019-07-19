@@ -17,10 +17,12 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * HTTP客户端常用接口封装，简化操作，提升性能，后续支持注解
- * 参考RestTemplate
- * @version 
- *
+ * <p>
+ *     HTTP客户端常用接口封装，简化操作，提升性能，后续支持注解
+ *     参考RestTemplate
+ * </p>
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 public interface HTTP {
 	

@@ -14,7 +14,10 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
-
+/**
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
+ */
 @Controller
 @RequestMapping("/api/v1/wechat")
 public class WechatController {

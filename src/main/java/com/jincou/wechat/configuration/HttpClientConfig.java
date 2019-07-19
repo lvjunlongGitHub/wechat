@@ -14,9 +14,8 @@ import org.springframework.context.annotation.Configuration;
 import java.util.concurrent.TimeUnit;
 
 /**
- * http client配置
- *
- * @author zwp
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 @Configuration
 @EnableAutoConfiguration

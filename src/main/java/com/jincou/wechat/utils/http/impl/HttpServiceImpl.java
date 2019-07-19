@@ -18,7 +18,10 @@ import java.util.Map;
 
 /**
  * http
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
+@SuppressWarnings("unchecked")
 @Service
 public class HttpServiceImpl implements HttpService {
 

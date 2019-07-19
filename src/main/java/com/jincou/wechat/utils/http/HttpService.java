@@ -6,7 +6,8 @@ import com.jincou.wechat.utils.common.OperationResult;
 import java.util.Map;
 
 /**
- * @author yangjh
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 public interface HttpService {
 

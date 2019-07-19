@@ -10,9 +10,9 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * 封装http协议，简化操作
- *
- * @author zwp
+ * 装http协议，简化操作
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 public class HttpImpl implements HTTP {
     public final MediaType MEDIA_JSON = MediaType.parse("application/json; charset=utf-8");

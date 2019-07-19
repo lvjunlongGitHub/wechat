@@ -14,10 +14,8 @@ import java.io.IOException;
 
 /**
  * http自定义异常类
- *
- * @version 
- * @author liuyi  2016年7月17日 下午2:28:00
- * 
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 public class HttpException extends IOException {
 	private Response response;

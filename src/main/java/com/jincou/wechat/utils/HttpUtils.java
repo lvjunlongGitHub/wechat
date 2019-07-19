@@ -16,7 +16,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 封装http get post
+ * <p>
+ *     封装http get post
+ * </p>
+ * @author lvjunlong
+ * @date 2019/7/19 下午2:42
  */
 public class HttpUtils {
 
