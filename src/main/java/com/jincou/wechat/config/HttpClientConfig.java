@@ -1,4 +1,4 @@
-package com.jincou.wechat.configuration;
+package com.jincou.wechat.config;
 
 import com.jincou.wechat.utils.http.HTTP;
 import com.jincou.wechat.utils.http.impl.HttpImpl;
